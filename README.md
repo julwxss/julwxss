@@ -10,4 +10,3 @@
 julwxss/julwxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F733453489338225568%2F&psig=AOvVaw1Jng9j8SaR1LiFhRRL1OXL&ust=1717613686786000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjEpODPwoYDFQAAAAAdAAAAABAE
